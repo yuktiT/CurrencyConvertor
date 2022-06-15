@@ -1,4 +1,4 @@
-#Currency Converter Verification
+# Currency Converter Verification
 ---
 
 - Write an acceptance test for http://www.xe.com/currencyconverter/
